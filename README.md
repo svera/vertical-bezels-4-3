@@ -11,3 +11,7 @@ Summarizing the steps:
 * SSH or FTP into Pi
 * Copy `cfgs/romname.cfg` into your `mame-libretro` (lr-mame2003) or fba-libretro (lr-fba) ROMS folder
 * Copy PNG file and `bezel-cfgs/romname.cfg` into overlay folder
+
+## Credits
+
+Thanks to AndrewH, UDb23 and Mayki from Retropie forums for their awesome work.
