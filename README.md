@@ -9,7 +9,7 @@ The `.cfg` files in `cfgs` assume retroarch overlay folder is: `/opt/retropie/em
 
 Summarizing the steps:
 * SSH or FTP into Pi
-* Copy `cfgs/romname.cfg` into your `mame-libretro` (lr-mame2003) or `fba-libretro` (lr-fba) ROMS folder
+* Copy `cfgs/romname.cfg` into your `configs/all/retroarch/config/MAME 2003` (lr-mame2003) or `configs/all/retroarch/config/FB Alpha` (lr-fba) folder
 * Copy PNG file and `bezel-cfgs/romname.cfg` into overlay folder
 
 ## Credits
