@@ -12,6 +12,18 @@ Summarizing the steps:
 * Copy `cfgs/romname.cfg` into your `configs/all/retroarch/config/MAME 2003` (lr-mame2003) or `configs/all/retroarch/config/FB Alpha` (lr-fba) folder
 * Copy PNG file and `bezel-cfgs/romname.cfg` into overlay folder
 
+--------------
+MDLAV8R Notes:
+--------------
+
+Target GitHub Folders - I have a total of 5 minutes of GitHub knowledge and 1 day of retroarch folder knowledge so this section is for my sanity (terms may be incorrect):
+
+Image files (.png) go in 1024 or 1600 folder depending on resolution.  All MDLAV8R bezels will be 1600x1200 to fit my Dell 2007 monitor so I will only populate the 1600 folder.
+"Overlay config" files (.cfg) ==> bezel.cfgs folder.  These are the .cfg files that sit in the retroarch OVERLAY folder (the same arcade-bezels folder as the .png files).
+"Config config" files (.cfg) ==> cfgs folder.  These are the .cfg files that sit in the retrorach CONFIGS folder.  On my system, they have much more rom-specific info than here.
+
 ## Credits
 
 Thanks to AndrewH, UDb23 and Mayki from Retropie forums for their awesome work.
+
+And big thanks to svera for giving 4:3 bezels a home!!!
