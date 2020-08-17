@@ -22,10 +22,10 @@ Image files (.png) go in 1024 or 1600 folder depending on resolution.
 All MDLAV8R bezels will be 1600x1200 to fit my Dell 2007 monitor so I will only populate the 1600 folder.
 
 "Overlay config" files (.cfg) ==> bezel.cfgs folder.  
-These are the .cfg files that sit in the retroarch OVERLAY folder (the same arcade-bezels folder as the .png files).
+These are the .cfg files that sit in the retroarch OVERLAY folder (the same arcade-bezels folder as the .png files on your emulator).
 
 "Config config" files (.cfg) ==> cfgs folder.  
-These are the .cfg files that sit in the retrorach CONFIGS folder.  On my system, they have much more rom-specific info than here.
+These are the .cfg files that sit in the retrorach CONFIGS folder (files are stripped down to remove everything but overlay info to allow the bezels to work).
 
 ## Credits
 
