@@ -12,6 +12,10 @@ Summarizing the steps:
 * Copy `cfgs/romname.cfg` into your `configs/all/retroarch/config/MAME 2003` (lr-mame2003) or `configs/all/retroarch/config/FB Alpha` (lr-fba) folder
 * Copy PNG file and `bezel-cfgs/romname.cfg` into overlay folder
 
+## Credits
+
+Thanks to AndrewH, UDb23 and Mayki from Retropie forums for their awesome work.
+
 --------------
 MDLAV8R Notes:
 --------------
@@ -33,8 +37,4 @@ These are the .cfg files that sit in the retroarch OVERLAY folder (the same arca
 "Config config" files (.cfg) ==> cfgs folder.  
 These are the .cfg files that sit in the retrorach CONFIGS folder (files are stripped down to remove everything but overlay info).
 
-## Credits
-
-Thanks to AndrewH, UDb23 and Mayki from Retropie forums for their awesome work.
-
-And big thanks to svera for giving 4:3 bezels a home!!!
+Big thanks to svera for giving 4:3 bezels a home!!!
