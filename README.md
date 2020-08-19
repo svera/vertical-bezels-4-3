@@ -20,6 +20,7 @@ Added:
 
 - Tron
 - Championship Bowling
+- Tempest
 
 Target GitHub Folders - I have a total of 5 minutes of GitHub knowledge and 1 day of retroarch folder knowledge so this section is for my sanity (terms may be incorrect):
 
