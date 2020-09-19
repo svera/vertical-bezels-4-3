@@ -15,3 +15,26 @@ Summarizing the steps:
 ## Credits
 
 Thanks to AndrewH, UDb23 and Mayki from Retropie forums for their awesome work.
+
+--------------
+MDLAV8R Notes:
+--------------
+
+Added:
+
+- Tron
+- Championship Bowling
+- Tempest
+- PacMan Plus
+
+Target GitHub Folders - I have a total of 5 minutes of GitHub knowledge and 1 day of retroarch folder knowledge so this section is for my sanity (terms may be incorrect):
+
+Image files (.png) go in 1024 or 1600 folder depending on resolution.  
+
+"Overlay config" files (.cfg) ==> bezel.cfgs folder.  
+These are the .cfg files that sit in the retroarch OVERLAY folder (the same arcade-bezels folder as the .png files on your emulator).
+
+"Config config" files (.cfg) ==> cfgs folder.  
+These are the .cfg files that sit in the retrorach CONFIGS folder (files are stripped down to remove everything but overlay info).
+
+Big thanks to svera for giving 4:3 bezels a home!!!
