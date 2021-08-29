@@ -3,7 +3,7 @@ Vertical arcade game overlays created for Lr-Mame2003 and Lr-FBA, with correct a
 
 Original logos, artwork, graphics and trademarks are property of their respective owners. 
 
-Be sure to also check out our sister project aimed to add [pause screens for arcade games](https://github.com/svera/arcade-pause-overlays).
+Be sure to also check out our sibling project aimed to add [pause screens for arcade games](https://github.com/svera/arcade-pause-overlays).
 
 ## How to install
 
